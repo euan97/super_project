@@ -1,5 +1,7 @@
 # Git for collaboration example repository
 
+Making a change.
+
 This is an example Git repository that is used as part of the
 [Git for Collaboration](https://chryswoods.com/git_collaboration)
 workshop. It's aim is to help you learn how to use Git and GitHub
